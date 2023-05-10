@@ -43,4 +43,9 @@
 - 👯 Em busca de uma vaga para Estágio/Júnior
 
 
+<div align="center">
+
+![snake gif](https://github.com/pedro-mileipp/pedro-mileipp/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
