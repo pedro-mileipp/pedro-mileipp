@@ -1,8 +1,8 @@
-name: Generate Datas
+name: Generate Cobras do inferno
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "* */6 * * *"
   workflow_dispatch:
 
 jobs:
