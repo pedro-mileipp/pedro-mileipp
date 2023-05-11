@@ -4,7 +4,6 @@
 <br>
 
 <div>
-  <a href="https://github.com/ellen2121">
   <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&theme=blueberry"/>
   <img height="200m"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=donut&theme=blueberry"/>
 
