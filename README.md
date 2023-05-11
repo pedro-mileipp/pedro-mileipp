@@ -60,5 +60,5 @@
 
 ## Repositórios atuais sendo trabalhados ⭐
 <div style="display: inline-block"><br>
-<img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/>
+ <a href="https://github.com/pedro-mileipp/sistemas-operacionais"><img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/></a>
 </div>
