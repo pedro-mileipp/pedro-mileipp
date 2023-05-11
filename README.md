@@ -3,13 +3,11 @@
 
 <br>
 
-<div>
+<div align="center">
 
   <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&theme=aura"/>
   <img height="200m"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=donut&theme=aura"/>
   
-  
-
 </div> 
   
 <br>
@@ -59,6 +57,7 @@
 </div>
 
 ## Repositórios atuais sendo trabalhados ⭐
-<div style="display: inline-block"><br>
- <a href="https://github.com/pedro-mileipp/sistemas-operacionais"><img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/></a>
+<div style="display: inline-block" align="center"><br>
+ <a href="https://github.com/pedro-mileipp/sistemas-operacionais"><img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/>
+  </a>
 </div>
