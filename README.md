@@ -7,6 +7,8 @@
 
   <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&theme=aura"/>
   <img height="200m"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=donut&theme=aura"/>
+  
+  
 
 </div> 
   
@@ -54,4 +56,10 @@
 
 ![snake gif](https://github.com/pedro-mileipp/pedro-mileipp/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
+## Repositórios atuais sendo trabalhados
+<div style="display: inline-block"><br>
+<img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/>
+<img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/>]
 </div>
