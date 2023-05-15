@@ -57,9 +57,9 @@
 </div>
 
 ## Repositórios atuais sendo trabalhados ⭐
-<div style="display: inline-block" align="center"><br>
- <a href="https://github.com/pedro-mileipp/sistemas-operacionais"><img height="150em"  margin-bottom="10px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/>
- <a href="https://github.com/pedro-mileipp/pokedex-pokeapi"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=pokedex-pokeapi&theme=aura"/>
+<div style="display: inline" align="center"><br>
+ <a href="https://github.com/pedro-mileipp/sistemas-operacionais"><img height="150em"  margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/>
+ <a href="https://github.com/pedro-mileipp/pokedex-pokeapi"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=pokedex-pokeapi&theme=aura"/>
    
   </a>
 </div>
