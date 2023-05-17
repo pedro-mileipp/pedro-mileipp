@@ -5,10 +5,11 @@
 
 <div align="center">
 
-  <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&theme=aura"/>
-  <img height="200m"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=donut&theme=aura"/>
+  <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&theme=radical"/>
+  <img height="200m"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=donut&theme=radical"/>
   
 </div> 
+
   
 <br>
 
@@ -50,18 +51,20 @@
 - 👯 Em busca de uma vaga para Estágio/Júnior
 
 
-<div align="center">
+<div display ="inline-block" align="center">
 
 ![snake gif](https://github.com/pedro-mileipp/pedro-mileipp/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ## Repositórios atuais sendo trabalhados ⭐
-<div><br>
- <a href="https://github.com/pedro-mileipp/sistemas-operacionais"><img height="150em" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=aura"/>
- <a href="https://github.com/pedro-mileipp/pokedex-pokeapi"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=pokedex-pokeapi&theme=aura"/>
-   
-  </a>
+<div align="center"><br>
+ <a href="https://github.com/pedro-mileipp/sistemas-operacionais"><img height="150em" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=sistemas-operacionais&theme=radical"/> </a>   
 </div>
-
+  
+  
+## Repositórios finalizados mais recentes postados no LinkedIn 🔗
+<div align="center"><br>
+<a href="https://github.com/pedro-mileipp/pokedex-pokeapi"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-mileipp&repo=pokedex-pokeapi&theme=radical"/> </a>
+</div>
 
