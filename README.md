@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&theme=radical"/>
+  <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&theme=aura"/>
   <img height="200m"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=donut&theme=radical"/>
   
 </div> 
