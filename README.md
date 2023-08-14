@@ -42,7 +42,8 @@
 - 💖 .NET lover <3
 - 🌱 Estudando Front-End e JavaScript (repositórios ainda virão) e GoLang
 - 👯 Em busca de uma vaga para Estágio/Júnior
-  
+
+<!--
 <div align="center">
 
 ![snake gif](https://github.com/pedro-mileipp/pedro-mileipp/blob/output/github-contribution-grid-snake.svg)
