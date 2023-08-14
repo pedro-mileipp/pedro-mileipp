@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&theme=aura"/>
+  <img height="200m"   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=compact&theme=radical"/>
   <img height="200m"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=donut&theme=radical"/>
   
 </div> 
@@ -38,7 +38,8 @@
 <br>
   
 - 🔭 Programador em contínua ascensão
-- 🚀 Principal linguagem é C# para uso no .NET
+- 🚀 Principal linguagem é C#
+- 💖 .NET lover <3
 - 🌱 Estudando Front-End e JavaScript (repositórios ainda virão) e GoLang
 - 👯 Em busca de uma vaga para Estágio/Júnior
   
