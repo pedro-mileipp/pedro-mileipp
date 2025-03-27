@@ -52,4 +52,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedro-mileipp}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E664CD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=120&section=footer"/>
