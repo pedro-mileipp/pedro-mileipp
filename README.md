@@ -18,7 +18,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-mileipp&bg_color=000000&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-mileipp&bg_color=000000&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/pedromileipp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
