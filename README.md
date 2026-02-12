@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20A6CCFF&size=35&center=true&vCenter=true&width=1000&lines=Pedro+Mileipp;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=BFDBFE&bg_color=0d1117" alt="Pedro Mileipp github stats" />  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mileipp&layout=compact&hide_border=true&title_color=3B82F6&text_color=60A5FA&bg_color=0d1117" />  
 </div>
@@ -12,9 +12,7 @@
 <div align="right">  
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=pedro-mileipp&show_icons=true&title_color=3B82F6&icon_color=60A5FA&text_color=BFDBFE&bg_color=0d1117&custom_title=pedro-mileipp%20Github%20Stats&theme=tokyonight&hide_border=true">  
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-mileipp&theme=tokyonight&hide_border=true&ring=3B82F6&fire=60A5FA&currStreakLabel=BFDBFE&sideNums=BFDBFE&sideLabels=BFDBFE&dates=60A5FA&background=0d1117"/>  
-</div>
-
-
+</div> -->
 
 <br>
 
